@@ -1,2 +1,2 @@
 # Test
-Github test3 for Linux
+echo "Github test3 for Linux"
